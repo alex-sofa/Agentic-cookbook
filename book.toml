@@ -1,0 +1,9 @@
+[book]
+title = "Agentic Cookbook"
+authors = ["Alex Schultze"]
+language = "en"
+src = "src"
+
+[output.html]
+git-repository-url = "https://github.com/alexschultze/Agentic-cookbook"
+edit-url-template = "https://github.com/alexschultze/Agentic-cookbook/edit/main/{path}"

@@ -1,19 +1,18 @@
 # Agentic Cookbook
 
-Rezepte und Notizen zum Betrieb von KI-Agenten (z. B. Hermes Agent, OpenCode) im Homelab mit Proxmox und FRITZ!Box.
+Short, practical recipes for recurring problems when running AI agents (Hermes Agent, OpenCode, …) in a homelab with Proxmox and a FRITZ!Box.
 
-## Inhalt
+- Table of contents: [src/SUMMARY.md](src/SUMMARY.md)
+- Recipe template: [src/template.md](src/template.md)
 
-| Rezept | Thema |
-|---|---|
-| [proxmox/vm-vs-lxc.md](proxmox/vm-vs-lxc.md) | Agent in VM oder LXC? Overhead und Sicherheitsrisiko |
-| [proxmox/nas-share.md](proxmox/nas-share.md) | NAS-Share (NFS/SMB) in VM oder unprivilegierten LXC einbinden, TUN im LXC |
-| [proxmox/firewall-isolation.md](proxmox/firewall-isolation.md) | Agent-VM ohne VLANs abschotten (Proxmox-Firewall, FRITZ!Box) |
+## Build
 
-## Grundsätze
+The book is built with [mdBook](https://rust-lang.github.io/mdBook/):
 
-1. **Agent in eine VM**, nicht in einen LXC, sobald er Code oder Shell-Befehle ausführt.
-2. **Netzwerk begrenzen** bringt mehr als die Wahl zwischen VM und LXC: Der Agent erreicht nur Internet und die Dienste, die er wirklich braucht.
-3. **API-Keys mit Budget-Limit** verwenden, nur für den Agenten.
-4. **Shares read-only** mounten, wenn Lesen reicht.
-5. **Snapshots** vor größeren Änderungen.
+```sh
+mdbook serve --open   # local preview
+mdbook build          # output in ./book
+```
+
+Pushing to `main` publishes the book to GitHub Pages via `.github/workflows/pages.yml`
+(enable it once under *Settings → Pages → Source: GitHub Actions*).
