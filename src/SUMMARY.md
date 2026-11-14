@@ -10,6 +10,7 @@
   - [Keeping host, containers and VMs updated](01-proxmox/updates.md)
 - [Networking](02-networking/README.md)
   - [Isolating an agent VM without VLANs](02-networking/isolation-without-vlans.md)
+  - [Proxmox host not recognized by the FRITZ!Box](02-networking/fritzbox-lldp.md)
 
 ---
 
