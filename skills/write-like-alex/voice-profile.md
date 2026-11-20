@@ -12,6 +12,12 @@
 
 ## Tone
 
+## Structure
+
+- A chapter or section opens with one short sentence that either previews what the following paragraphs cover or summarizes them. Then the details follow.
+  - RIGHT: "This section compares three mounting options and recommends the host mount for most cases." → details.
+  - WRONG: starting directly with the first detail or with a rhetorical question.
+
 ## Sentence structure
 
 <!-- Typical sentence length, use of fragments, questions, punctuation habits. -->
