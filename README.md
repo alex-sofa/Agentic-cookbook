@@ -14,5 +14,5 @@ mdbook serve --open   # local preview
 mdbook build          # output in ./book
 ```
 
-Pushing to `main` publishes the book to GitHub Pages via `.github/workflows/pages.yml`
-(enable it once under *Settings → Pages → Source: GitHub Actions*).
+Every push builds the book in GitHub Actions (`.github/workflows/build.yml`) as a check.
+The rendered HTML is available as the `book` artifact of each run.
