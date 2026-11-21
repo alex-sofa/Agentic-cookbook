@@ -1,6 +1,6 @@
 # Voice profile: Alex
 
-> Status: built from Alex's PhD thesis (English, technical, ~44k words). Covers technical and academic writing. Email and chat sections are still empty; fill them from samples.
+> Status: built from Alex's PhD thesis (English, technical, ~44k words). Covers technical and academic writing. Email and chat: general rules stated by Alex; refine from samples.
 
 ## Summary
 
@@ -64,13 +64,21 @@
 
 ## Channels
 
+### Email and chat (general)
+
+Short, precise and factual (stated by Alex).
+
+- **Short:** the point or the request in the first sentence; only the details the reader needs to act.
+- **Precise:** concrete facts, numbers, dates and names of things; a clear ask with owner and deadline if something is needed.
+- **Factual:** no small talk, no flourishes, no exaggerated politeness or apologies.
+
 ### Email
 
-<!-- Fill from samples. -->
+- Rules above. Greeting and closing short and conventional.
 
 ### Chat (Teams, Signal, …)
 
-<!-- Fill from samples. -->
+- Rules above, even shorter: usually one to three sentences, no greeting needed.
 
 ### GitHub, docs, READMEs
 
@@ -96,3 +104,4 @@
 
 - 2026-11-20: Section-opening rule added (stated by Alex).
 - 2026-11-21: Profile built from PhD thesis.
+- 2026-11-21: Communication style stated: short, precise, factual.
