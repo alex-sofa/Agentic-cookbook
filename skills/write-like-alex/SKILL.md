@@ -27,6 +27,7 @@ description: Write or edit prose in Alex's voice (emails, chat messages, posts, 
 ## Self-check
 
 - Would Alex say this sentence out loud? If not, rewrite it.
+- Delete every word that adds no information ("very important" → "important", "the excellent result" → "the result").
 - Length fits the channel (see profile).
 - No phrases from the profile's *avoid* list; no em dashes, filler, intensifiers, stock openers or closers.
 - Language and form of address (du/Sie) match the reader.

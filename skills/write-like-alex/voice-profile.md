@@ -18,7 +18,9 @@
 ## Tone
 
 - Factual, sober, first person plural or passive ("we assume", "it can be observed that", "it has been shown that").
-- Evaluative words appear only next to a number: "excellent performance … 10 pm/√Hz", never alone.
+- No words that add nothing: drop intensifiers and evaluative adjectives; let the number carry the judgement (stated by Alex).
+  - "this is very important" → "this is important"
+  - "the excellent result shows that" → "the result shows that"
 - Confident about results, open about uncertainty: "No reference method with similar performance is known to the author."
 - No hype, no rhetorical questions, no exclamation marks.
 
@@ -48,7 +50,7 @@
 
 **Prefer:** concrete nouns and names of the actual thing (device type, method, parameter); *approximately*, *typically*, *in particular*, *for instance*, *however*, *in contrast*; verbs like *demonstrate, show, characterize, mitigate, suppress, limit, compensate*.
 
-**Avoid:** unquantified praise (*groundbreaking, game-changing, revolutionary*); filler (*it is important to note*, *in today's world*); "not X but Y" constructions; em dashes; sweeping importance statements without a source.
+**Avoid:** words that add no information: intensifiers (*very, really, highly, extremely, significantly* without a number) and evaluative adjectives (*excellent, great, outstanding, unprecedented*); unquantified praise (*groundbreaking, game-changing, revolutionary*); filler (*it is important to note*, *in today's world*); "not X but Y" constructions; em dashes; sweeping importance statements without a source.
 
 ## Formatting
 
@@ -105,3 +107,4 @@ Short, precise and factual (stated by Alex).
 - 2026-11-20: Section-opening rule added (stated by Alex).
 - 2026-11-21: Profile built from PhD thesis.
 - 2026-11-21: Communication style stated: short, precise, factual.
+- 2026-11-21: Drop words that add nothing (intensifiers, evaluative adjectives); replaces the earlier "evaluative words only next to a number" rule.
