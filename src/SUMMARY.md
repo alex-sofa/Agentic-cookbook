@@ -13,6 +13,7 @@
   - [Proxmox host not recognized by the FRITZ!Box](02-networking/fritzbox-lldp.md)
 - [Agents](03-agents/README.md)
   - [Avoiding AI slop](03-agents/avoiding-ai-slop.md)
+  - [Personal agent rules](03-agents/personal-rules.md)
 
 ---
 
