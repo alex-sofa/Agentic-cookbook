@@ -5,3 +5,4 @@ Recipes for configuring agents and their instructions.
 - [Avoiding AI slop](avoiding-ai-slop.md)
 - [Personal agent rules](personal-rules.md)
 - [OpenCode permissions for MCP tools](opencode-permissions.md)
+- [OpenCode Code Mode vs. direct MCP tool calls](opencode-code-mode.md)

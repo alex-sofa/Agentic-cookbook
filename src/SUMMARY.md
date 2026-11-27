@@ -15,6 +15,7 @@
   - [Avoiding AI slop](03-agents/avoiding-ai-slop.md)
   - [Personal agent rules](03-agents/personal-rules.md)
   - [OpenCode permissions for MCP tools](03-agents/opencode-permissions.md)
+  - [OpenCode Code Mode vs. direct MCP tool calls](03-agents/opencode-code-mode.md)
 
 ---
 
